@@ -24,8 +24,22 @@ I'm an undergraduate student enrolled in a major of Game Application of Technolo
     </tr>
   </tbody>
 </table>
-<!--
-**gityehuda/gityehuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        
+<br>
+
+<table width="100%"> 
+  <thead>
+    <tr>
+      <th width="50%"> Space Assault </th>
+      <th width="50%"> Cleanscipline </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <img src="https://github.com/gityehuda/gityehuda/blob/main/img/Space%20Assault%20-%20Made%20with%20Clipchamp.gif"> </td>
+      <td> </td>
+    </tr>
+  </tbody>
 
 Here are some ideas to get you started:
 
