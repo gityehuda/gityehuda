@@ -37,18 +37,14 @@ I'm an undergraduate student enrolled in a major of Game Application of Technolo
   <tbody>
     <tr>
       <td> <img src="https://github.com/gityehuda/gityehuda/blob/main/img/Space%20Assault%20-%20Made%20with%20Clipchamp.gif"> </td>
-      <td> </td>
+      <td> <img src="https://github.com/gityehuda/gityehuda/blob/main/img/Cleanscipline%20-%20Made%20with%20Clipchamp.gif"> </td>
+    </tr>
+    <tr>
+      <td vallign="text-top"> Space Assault is a 2D Top Down Shooter that takes place. The player is tasked as a pilot of a spaceship to destroy enemy spaceships as many as possible while trying to survive in the wild space. </td>
+    </tr>
+    <tr>
+      <td vallign="text-top"> Cleanscipline is a point and click game in which the player is tasked to clean and tidy up his house before the timer runs out. The house consists of rooms or areas that needs to be cleaned and tidied. The progression percentage is shown to display how clean the room or the area is. </td>
     </tr>
   </tbody>
+</table>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
