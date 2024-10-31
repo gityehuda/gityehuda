@@ -19,6 +19,11 @@ I'm an undergraduate student enrolled in a major of Game Application of Technolo
       <td vallign="text-top"> This is a forest-themed Side Scrolling game in which the player is given an objective to get pass every obstacle to reach the finish point. </td>
     </tr>
     <tr>
+      <td><a href="https://github.com/gityehuda/LB-Game-Prog-Pong.git"> Github Page </td>
+      <td><a href="https://github.com/gityehuda/LB-Game-Prog-Side-Scroll.git"> Github Page </td>
+    </tr>
+    </tr>
+    <tr>
       <td> <a href="https://yehuda-ekglecia.itch.io/forest-pong"> Game Page </td>
       <td> <a href="https://yehuda-ekglecia.itch.io/la-voyageur"> Game Page </td>
     </tr>
