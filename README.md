@@ -48,5 +48,9 @@ I'm an undergraduate student enrolled in a major of Game Application of Technolo
       <td vallign="text-top"> Space Assault is a 2D Top Down Shooter that takes place. The player is tasked as a pilot of a spaceship to destroy enemy spaceships as many as possible while trying to survive in the wild space. </td>
        <td vallign="text-top"> Cleanscipline is a point and click game in which the player is tasked to clean and tidy up his house before the timer runs out. The house consists of rooms or areas that needs to be cleaned and tidied. The progression percentage is shown to display how clean the room or the area is. </td>
     </tr>
+    <tr>
+      <td> <a href="https://github.com/gityehuda/LB-Game-Top-Down-Shooter.git"> Github Page </td>
+      <td> <a href="https://github.com/gityehuda/Software-Engineering.git"> Github Page </td>
+    </tr>
   </tbody>
 </table>
