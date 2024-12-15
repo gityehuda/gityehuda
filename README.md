@@ -54,3 +54,26 @@ I'm an undergraduate student enrolled in a major of Game Application of Technolo
     </tr>
   </tbody>
 </table>
+
+<br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"> Street Accel </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <img src="https://github.com/gityehuda/gityehuda/blob/main/img/Street%20Accel%20-%20Made%20with%20Clipchamp.gif"> </td>
+    </tr>
+    <tr>
+      <td vallign="text-top"> Street Accel is an endless racing game in which the player tries to survive from incoming vehicles heading towards the player's car </td>td>
+    </tr>
+    <tr>
+      <td> <a href="https://github.com/gityehuda/Street-Accel.git"> Github Page </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
